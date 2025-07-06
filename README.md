@@ -61,10 +61,32 @@ The **Drug Recommendation Dashboard** is a data-driven tool designed to support 
 
 ## 📷 Dashboard Preview
 
-_(Optional: You can add screenshots of the Tableau dashboard here if available)_
-
-```html
-<p align="center">
-  <img src="https://github.com/username/repo/blob/main/path_to_dashboard_screenshot1.png?raw=true" width="500"/>
-  <br/>Main Dashboard View
-</p>
+<table>
+  <td align="center">
+      <img src="https://github.com/channaabds/Drug-Recommendation-Dashboard/blob/main/0.jpg?raw=true" width="700"/>
+    </td>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/channaabds/Drug-Recommendation-Dashboard/blob/main/0%20(1).jpg?raw=true" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/channaabds/Drug-Recommendation-Dashboard/blob/main/0%20(2).jpg?raw=true" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/channaabds/Drug-Recommendation-Dashboard/blob/main/0%20(3).jpg?raw=true" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/channaabds/Drug-Recommendation-Dashboard/blob/main/0%20(4).jpg?raw=true" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/channaabds/Drug-Recommendation-Dashboard/blob/main/0%20(5).jpg?raw=true" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/channaabds/Drug-Recommendation-Dashboard/blob/main/0%20(6).jpg?raw=true" width="400"/>
+    </td>
+  </tr>
+</table>
